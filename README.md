@@ -1,3 +1,4 @@
+
 ![imagen G P](https://github.com/ISPC-TST-PI-I-2024/capa-de-percepcion-grupo-plata/assets/114953054/00c3928c-8a81-4ef2-8b69-cb990eb09982)
 
 # Proyecto Final
