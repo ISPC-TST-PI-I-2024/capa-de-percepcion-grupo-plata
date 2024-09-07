@@ -1,5 +1,5 @@
 
-![imagen G P](https://github.com/ISPC-TST-PI-I-2024/capa-de-percepcion-grupo-plata/assets/114953054/00c3928c-8a81-4ef2-8b69-cb990eb09982)
+[![imagen-G-P-percepcion.jpg](https://i.postimg.cc/zXfnDMNY/imagen-G-P-percepcion.jpg)](https://postimg.cc/7bpCmKbK)
 
 # Proyecto Final
 ## Grupo: PLATA
