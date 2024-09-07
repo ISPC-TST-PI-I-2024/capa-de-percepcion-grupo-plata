@@ -1,5 +1,5 @@
 
-[![imagen-G-P-percepcion.jpg](https://i.postimg.cc/zXfnDMNY/imagen-G-P-percepcion.jpg)](https://postimg.cc/7bpCmKbK)
+[![imagen-G-P-percepcion.jpg](https://i.postimg.cc/659N8rbX/imagen-G-P-percepcion.jpg)](https://postimg.cc/fkgPF9h2)
 
 # Proyecto Final
 ## Grupo: PLATA
